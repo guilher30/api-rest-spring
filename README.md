@@ -7,11 +7,12 @@ Charles Aparecido da Silva Moreira
 Projeto foi realizado utilizando o Framework Spring Boot.
 
 Dependencias Utilizadas:
-Spring Web
-H2 Database
+Spring Web,
+H2 Database,
 Spring Data JPA 
 
 End points: 
+
 Buscar todos:
 GET http://localhost:8080/livros
 
