@@ -1,10 +1,10 @@
 # library
-#Integrantes: 
-#Guilherme Moura de Souza
-#Charles Aparecido da Silva Moreira
-#Projeto foi realizado utilizando o Framework Spring Boot.
+integrantes: 
+Guilherme Moura de Souza
+Charles Aparecido da Silva Moreira
+Projeto foi realizado utilizando o Framework Spring Boot.
 
-#End points: 
+End points: 
 Buscar todos:
 GET http://localhost:8080/livros
 
