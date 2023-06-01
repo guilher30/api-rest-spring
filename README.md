@@ -14,6 +14,16 @@ GET http://localhost:8080/livros/4
 Adicionar Livro:
 POST http://localhost:8080/livros
 
+Exemplo de Body pra POST:
+{
+    "nome": "O Conta da Aia",
+    "autor": "Margaret Atwood",
+    "ano": 1985,
+    "genero": {
+        "id": 1
+    }
+}
+
 Deleta Livro por ID: 
 DELETE http://localhost:8080/livros/7
 
